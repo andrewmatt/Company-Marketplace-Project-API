@@ -33,4 +33,4 @@ config :companyMarketplace, CompanyMarketplace.Repo,
 config :guardian, Guardian,
 secret_key: "K62wke+guXnymzdl7TzvCi4AjW2Ben2Rrk8SROMfIhUYcAmL5vaU2lYrCjrYVjcx"
 
-import_config "dev.secret.exs"
+#import_config "dev.secret.exs"
