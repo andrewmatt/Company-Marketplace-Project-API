@@ -14,7 +14,7 @@ To start your Phoenix app:
   * vcvarsall amd64 // <-- this may need to be changed accordingly to your system 
 
 After you successfully opened the server, move to Company-Marketplace-Project-WEB and start the client as well:
-(Click Here)[https://github.com/andrewmatt/Company-Marketplace-Project-WEB]
+[Click Here](https://github.com/andrewmatt/Company-Marketplace-Project-WEB)
 
 ## Learn more
 
