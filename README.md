@@ -2,7 +2,7 @@
 
 ------
 
-Company-Markeplace is an E-Commerce Admin App that uses React&Redux for the frontend and Elixir with the Phoenix Framework for the backend. The communication between apps is done via Http requests and responses (Routes can be found in mix.exs). 
+Company-Marketplace is an E-Commerce Admin App that uses React&Redux for the frontend and Elixir with the Phoenix Framework for the backend. The communication between apps is done via Http requests and responses (Routes can be found in mix.exs). 
 
 Features: The application has the following functional pages: Login, Register (via Verification Email), Dashboard Page, Company Profile, Edit Company, and a Products CRUD page.
 
