@@ -16,7 +16,7 @@ To start your Phoenix app:
   * Unpack Elixir Archive
   * cd Company-Marketplace-Project-API-master
   * Install dependencies with `mix deps.get`
-  * Set your postgres credentials in dev.exs
+  * Set your postgres credentials in config -> dev.exs
   * Create and migrate your database with `mix ecto.create && mix ecto.migrate`
   * Start Phoenix endpoint with `mix phoenix.server`
   
