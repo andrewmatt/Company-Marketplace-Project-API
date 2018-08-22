@@ -10,6 +10,8 @@ In Elixir I used guardian for authentication combined with comeonin for password
 
 In the Web Application I used React-Router to create the Sidebar navigation Menu and the Navbar Links. I also used Redux Form, Redux-Auth-Wrapper, React-Router-Redux and others. For styles I used Bootstrap 4 with Font-Awesome 4.7.
 
+![alt text](https://i.imgur.com/utYY4qM.png)
+
 ------
 
 To start your Phoenix app:
